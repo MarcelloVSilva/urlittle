@@ -1,3 +1,5 @@
+src/db/config.js
+
 # Logs
 logs
 *.log
